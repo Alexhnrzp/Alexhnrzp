@@ -1,9 +1,9 @@
-<table style="width:100%; position: relative;">
-  <tr>
-    <td align="center" width="100%" style="background: src:'fondo.jpg'; background-size: cover; padding: 50px; color: white; font-size: 20px;">
-      <h1>👋 ¡Hola, soy [Tu Nombre]!</h1>
-      <p>🚀 Desarrollador Web Junior | 💻 Apasionado por el código limpio y funcional</p>
-      <p>🌍 Siempre aprendiendo nuevas tecnologías</p>
-    </td>
-  </tr>
-</table>
+<div style="position: relative; text-align: center;">
+  <!-- Imagen de fondo -->
+  <img src="mega.png" width="100%" alt="Banner de fondo">
+  
+  <!-- Contenedor de información -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; color: white;">
+  
+  </div>
+</div>
