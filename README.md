@@ -1,12 +1,11 @@
-<p align="center">
+<div style="position: relative; text-align: center;">
+  <!-- Imagen de fondo -->
   <img src="fondo.jpg" width="100%" alt="Banner de fondo">
-</p>
-
-<h1 align="left">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="80">  
-  ¡Hola, soy [Tu Nombre]!
-</h1>
-
-🚀 **Desarrollador Web Junior** | 💻 Apasionado por el código limpio y funcional | 🌍 Siempre aprendiendo nuevas tecnologías  
-
----
+  
+  <!-- Contenedor de información -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; color: white;">
+    <h1>👋 ¡Hola, soy [Tu Nombre]!</h1>
+    <p>🚀 Desarrollador Web Junior | 💻 Apasionado por el código limpio y funcional</p>
+    <p>🌍 Siempre aprendiendo nuevas tecnologías</p>
+  </div>
+</div>
